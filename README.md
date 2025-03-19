@@ -11,3 +11,5 @@ Understanding data can start with data preparation; here are the steps using Pyt
     -Sorting data
     -Data duplicate
     -Missing values
+
+Feature engineering has a aggregation and join 
